@@ -45,7 +45,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <strong>2. Observe the Ticket as a Help Desk Agent:</strong><br>
   - Start by visiting the Agent Login page: http://localhost/osTicket/scp/login.php<br>
   - Once logged in, you should see the new ticket the end-user created listed at the top.<br>
-  - Click on the ticket and observe the ticket's properties.
+  - Click on the ticket and observe the ticket's properties: Priority, Department, SLA, Assigned To
 </p>
 
 <br>
