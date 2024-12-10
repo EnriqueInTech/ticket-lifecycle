@@ -42,8 +42,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <strong>2. Configure New Role:</strong><br>
-  - Click on the Agents tab and select Roles.<br>
+  <strong>2. Observe the Ticket as a Help Desk Agent:</strong><br>
+  - Start by visiting the Agent Login page: http://localhost/osTicket/scp/login.php<br>
   - For Name, type Supreme Admin for the new role we'll be creating.<br>
   - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
   - We are going to allow this role to have all permissions. To do so, select all available options under Tickets, Tasks and Knowledgebase. Each option should be checked.<br>
