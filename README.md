@@ -44,20 +44,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   <strong>2. Observe the Ticket as a Help Desk Agent:</strong><br>
   - Start by visiting the Agent Login page: http://localhost/osTicket/scp/login.php<br>
-  - For Name, type Supreme Admin for the new role we'll be creating.<br>
-  - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
-  - We are going to allow this role to have all permissions. To do so, select all available options under Tickets, Tasks and Knowledgebase. Each option should be checked.<br>
-  - Once all options have been checked, click on Add Role at the bottom.
+  - Once logged in, you should see the new ticket the end-user created listed at the top.<br>
+  - Click on the ticket and observe the ticket's properties.
 </p>
 
 <br>
 
 <p>
-  <img src="https://i.imgur.com/C56v4Ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/rfWYxZD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/mA9GnpQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/FKtcSOy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
