@@ -38,10 +38,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <img src="https://i.imgur.com/2I3IW6Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
   <strong>2. Configure New Role:</strong><br>
   - Click on the Agents tab and select Roles.<br>
   - For Name, type Supreme Admin for the new role we'll be creating.<br>
