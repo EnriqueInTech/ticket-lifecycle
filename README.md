@@ -60,7 +60,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
   <strong>3. Set Properties to the Ticket:</strong><br>
-  - Click on the Agents tab and select Departments.<br>
+  - Click on SLA Plan and select Severity Level A (SEV-A) since this ticket appears to be a high critical issue.<br>
   - Click on Add New Department.<br>
   - For Parent, select Support from the drop-down options.<br>
   - For Name, type SysAdmins for the new department we'll be creating.<br>
