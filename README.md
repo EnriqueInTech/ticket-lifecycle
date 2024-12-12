@@ -81,11 +81,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <strong>4. Configure New Team:</strong><br>
-  - Click on the Agents tab and select Teams.<br>
-  - Click on Add New Team.<br>
-  - For Name, type Online Banking for the new team we'll be creating.<br>
-  - Click on Create Team at the bottom.
+  <strong>4. Observe the Ticket:</strong><br>
+  - Refresh the page to view updates.<br>
+  - The ticket thread should reflect the updates that were made to the ticket.
 </p>
 
 <p>
