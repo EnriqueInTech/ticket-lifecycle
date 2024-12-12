@@ -59,7 +59,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <strong>3. Configure New Department:</strong><br>
+  <strong>3. Set Properties to the Ticket:</strong><br>
   - Click on the Agents tab and select Departments.<br>
   - Click on Add New Department.<br>
   - For Parent, select Support from the drop-down options.<br>
@@ -68,7 +68,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <img src="https://i.imgur.com/jm5fOee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/pekZyGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/2cW1641.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/vUqFAGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
