@@ -64,7 +64,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Provide a reason for the update and click Update.<br>
   - Click on Help Topic and select Business Critical Outage to help the problem being reported more specific.<br>
   - Provide a reason for the update and click Update.<br>
-  - Click on Create Dept at the bottom.
+  - Click on Assigned To and select the Online Banking team since there's an actual team for this type of problem.<br>
+  - Provide a reason for the assignment and click Assign.
 </p>
 
 <p>
