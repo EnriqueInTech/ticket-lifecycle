@@ -62,8 +62,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <strong>3. Set Properties to the Ticket:</strong><br>
   - Click on SLA Plan and select Severity Level A (SEV-A) since the ticket in this example appears to be a high critical issue.<br>
   - Provide a reason for the update and click Update.<br>
-  - For Parent, select Support from the drop-down options.<br>
-  - For Name, type SysAdmins for the new department we'll be creating.<br>
+  - Click on Help Topic and select Business Critical Outage to help the problem being reported more specific.<br>
+  - Provide a reason for the update and click Update.<br>
   - Click on Create Dept at the bottom.
 </p>
 
