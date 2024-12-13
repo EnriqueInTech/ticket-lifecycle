@@ -105,15 +105,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <img src="https://i.imgur.com/9A23XY2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/BhGdkJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/ppycbCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/K10OjqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/o4hOJNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/CpgS1Y2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/9MJEgp9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
