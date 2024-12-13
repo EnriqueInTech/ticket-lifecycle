@@ -83,7 +83,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   <strong>4. Observe the Ticket:</strong><br>
   - Refresh the page to view updates.<br>
-  - The ticket thread should reflect the updates that were made to the ticket.
+  - The Ticket Thread should reflect the updates that were made to the ticket.
 </p>
 
 <p>
@@ -91,13 +91,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  <strong>5. Configure New Agent:</strong><br>
-  - Click on the Agents tab and select Agents.<br>
-  - Click on Add New Agent.<br>
-  - On the Account tab, enter a name, email address and username.<br>
-  - On the Access tab, select Support/SysAdmins as the department and select Supreme Admin as the role from the drop-down options.<br>
-  - On the Teams tab, select Online Banking as the team from the drop-down options.<br>
-  - Click on Create at the bottom.
+  <strong>5. Work the Ticket to Completion as a Different Help Desk Agent:</strong><br>
+  - Start by visiting the Agent Login page: http://localhost/osTicket/scp/login.php<br>
+  - Once logged in, click on the updated ticket.<br>
+  - Click on Assigned To to reassign the ticket to yourself or to the specific help desk agent who will be working the ticket to completion.<br>
+  - Provide a reason for the reassignment and click Assign.<br>
+  - Scroll down to Post Reply and provide a response to the active recipients of this ticket.<br>
+  - Click Post Reply.<br>
+  - Before closing the ticket, scroll down to Post Reply and provide a summary.<br>
+  - Click Post Reply.<br>
+  - Click on Status to change the status of the ticket from Open to Resolved.<br>
+  - Click Close.
 </p>
 
 <p>
